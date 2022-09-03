@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment1-2</string>
+    <string name="score">Ghi điểm</string>
+    <string name="steal">Trừ điểm</string>
+    <string name="reset">Bắt đầu lại</string>
+</resources>
